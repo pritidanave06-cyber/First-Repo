@@ -2,3 +2,4 @@
 I'm Priti and I'm creating my first repo file .
 <br>
 Hello
+I'm studying Computer Engineering 
